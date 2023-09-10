@@ -1,14 +1,14 @@
-# 📚 Sobre
- Chalé Hotel é um website criado e desenvolvido juntamente com o curso Udemy, com o intuíto de ajudar nas reservas de hotéis
+# 📚 About
+  Chalé Hotel is a website created and developed together with the Udemy course, with the aim of helping with hotel reservations
 <hr>
 
-## Detalhes
-Foi criado e desenvolvido apenas para aprofundamento de conhecimentos
+## Details
+It was created and developed solely to deepen knowledge
 
- ## 💻Tecnologias utilizadas
+  ## 💻Technologies used
 - HTML <br>
-- CSS
+-CSS
 
-## 👩‍💻Acesse o Site
-Hospedado no netlify <br>
+## 👩‍💻Access the Website
+Hosted on netlify <br>
 https://chaleehotel.netlify.app
